@@ -13,4 +13,3 @@ Cleaned up the HTML markup by doing the following:
   (applied only when HTML markup has similar formatting)
 
 
-
